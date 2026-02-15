@@ -1,0 +1,7 @@
+{
+  "name": "Birthday Surprise",
+  "description": "A festive, interactive birthday celebration app with personalized greetings, gift reveals, and AI-powered wishes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
